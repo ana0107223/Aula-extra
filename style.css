@@ -1,15 +1,8 @@
 .cabecalho{
-    background-color: aquamarine;
-    color: blue;
+    background-color: black;
+    color: beige;
     display: flex;
     padding: 24px 0;
-}
 
-.section1{
-    background-color: brown;
-}
-
-.setion2{
-    background-color: blueviolet;
 }
 
